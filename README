@@ -1,0 +1,23 @@
+Command Line Checkbook Application 💼
+
+Overview
+This project provides a simple command line checkbook application.
+It allows users to seamlessly track their finances via a terminal interface 💻.
+Users can view their current balance 💰, add debits (withdrawals) 📤, add credits (deposits) 📥,
+and exit the application 🚪.
+
+Features
+-Command Line Interface: Run the application from your terminal
+ and follow the prompt 🖥.
+
+-Persistent Ledger: The application saves all transactions to a ledger
+ file ensuring continuity of your balance across multiple sessions 📒.
+
+-Error Handling: Invalid inputs are recognized and the user is prompted to re-enter a valid choice ❌.
+Balance Tracking: Easily view, debit, and credit your account balance 📊.
+
+
+Installation and Setup 🛠
+-Clone the repository or download the checkbook.py file 📁.
+-Navigate to the directory containing checkbook.py 🗂.
+-Run the application with the command python checkbook.py ⌨️.
